@@ -1,4 +1,9 @@
-### Hi there![0001GIF](https://user-images.githubusercontent.com/64326133/219596129-5d25dfa7-b4f3-4899-b8c1-70a641fdad22.gif)
+### Hi there![0001GIF](https://user-images.githubusercontent.com/64326133/219596129-5d25dfa7-b4f3-4899-b8c1-70a641fdad22.gif )
+
+
+
+
+
   My Name is Vaida Aurel
 
 ### I'm currently learning Web Development
