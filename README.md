@@ -1,4 +1,4 @@
-### Hi there![0001GIF](https://user-images.githubusercontent.com/64326133/219596129-5d25dfa7-b4f3-4899-b8c1-70a641fdad22.gif )
+### Hi there![0001GIF](https://user-images.githubusercontent.com/64326133/219596129-5d25dfa7-b4f3-4899-b8c1-70a641fdad22.gif width="36" height="36")
 
 
 
@@ -9,6 +9,10 @@
 ### I'm currently learning Web Development
 
 ## Skills
+<img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3.org%2Fhtml%2Flogo%2F&psig=AOvVaw2EaK4X1Ej1c1kDTIsRbbwA&ust=1676710434208000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiNzqCXnP0CFQAAAAAdAAAAABAH" width="36" height="36" alt="JavaScript" /></a>
+
+
+
 
 
 <!--
