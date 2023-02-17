@@ -8,7 +8,7 @@
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw2Kd4DWFKVEuOL40LYXuVs0&ust=1676711386896000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCz6-aanP0CFQAAAAAdAAAAABAD" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw1BkPlR2WX4MSDy3AafKwpk&ust=1676712501449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJiE-fmenP0CFQAAAAAdAAAAABAD" width="36" height="36" alt="HTML5" /></a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACSS3_logo_and_wordmark.svg&psig=AOvVaw1LNQS-j3nXXh9Eljw7fRnF&ust=1676711479421000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJD7xJObnP0CFQAAAAAdAAAAABAD" width="36" height="36" alt="CSS" /></a>
 
