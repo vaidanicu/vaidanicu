@@ -1,31 +1,25 @@
-### Hi there![0001GIF](https://user-images.githubusercontent.com/64326133/219596129-5d25dfa7-b4f3-4899-b8c1-70a641fdad22.gif width="36" height="36")
-
-
-
-
-
-  My Name is Vaida Aurel
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vaida Aurel Nicolae
 
 ### I'm currently learning Web Development
 
+---
+
 ## Skills
-<img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3.org%2Fhtml%2Flogo%2F&psig=AOvVaw2EaK4X1Ej1c1kDTIsRbbwA&ust=1676710434208000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiNzqCXnP0CFQAAAAAdAAAAABAH" width="36" height="36" alt="JavaScript" /></a>
 
+<p align="left">
 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw2Kd4DWFKVEuOL40LYXuVs0&ust=1676711386896000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCz6-aanP0CFQAAAAAdAAAAABAD" width="36" height="36" alt="HTML5" /></a>
 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACSS3_logo_and_wordmark.svg&psig=AOvVaw1LNQS-j3nXXh9Eljw7fRnF&ust=1676711479421000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJD7xJObnP0CFQAAAAAdAAAAABAD" width="36" height="36" alt="CSS" /></a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fjavascript&psig=AOvVaw1CUSP0I92_vnkMo3pCV3c5&ust=1676711302269000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPj9ob6anP0CFQAAAAAdAAAAABAD" width="36" height="36" alt="JavaScript" /></a>
 
-<!--
-**vaidanicu/vaidanicu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+## Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="github.com/vaidanicu " target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fgithub-logo%2F&psig=AOvVaw1517W0uCmuV3EqonLp-rqp&ust=1676711748772000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIj31pScnP0CFQAAAAAdAAAAABAD" width="32" height="32" /></a>
+
+<a href="linkedin.com/in/vaidaaurelnicolae" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_Logo.svg&psig=AOvVaw1nf0aZGXapWQqzQ4mLjbBy&ust=1676711829950000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNCcpLqcnP0CFQAAAAAdAAAAABAD" width="32" height="32" /></a>
+
+</p>
